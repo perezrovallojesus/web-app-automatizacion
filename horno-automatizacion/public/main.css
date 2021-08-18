@@ -1,0 +1,30 @@
+
+#app {
+    display: none;
+  }
+  #app {
+    display: block;
+  }
+
+.navbar-custom {
+    align-items: center;
+    font-weight: 400;
+    height: 52px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f9f9f9;
+}
+
+#footer{
+    width: 100%;
+    position:absolute;
+    bottom:0;
+    background-color: #efefef;
+}
+h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
