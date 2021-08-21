@@ -1,3 +1,12 @@
+.btn-custom {
+    color: #ffffff;    
+    border-color: #ffffff; 
+}
+.btn.btn-custom:hover {
+    color: royalblue;
+    background-color: #ffffff;
+    
+}
 
 .navbar-custom {
     align-items: center;
